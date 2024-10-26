@@ -24,6 +24,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
    - Contributors: John McCarthy, Marvin Minsky, Claude Shannon, and others
    - Formalized AI as a field, proposing the study of "machines that can simulate human intelligence."
+   - *[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904/1802)*
 
 4. **1958 – Perceptron by Frank Rosenblatt**
 
