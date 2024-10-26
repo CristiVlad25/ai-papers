@@ -12,13 +12,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - Authors: Warren McCulloch and Walter Pitts
    - Introduced the concept of an artificial neuron, laying the foundation for later neural network models.
    - [[Youtube video explaining the paper in simple terms](https://www.youtube.com/watch?v=dvCcBTOBOK0)]
-   - **(I am currently here)**.
 
 2. **1950 – Turing Test**
 
    - *[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433)*
    - Author: Alan Turing
    - Introduced the concept of the Turing Test, an early philosophical framework for evaluating machine intelligence.
+   - **(I am currently here)**.
 
 3. **1956 – Dartmouth Conference (Birth of AI)**
 
