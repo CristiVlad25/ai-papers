@@ -24,13 +24,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904/1802)*
    - Contributors: John McCarthy, Marvin Minsky, Claude Shannon, and others
    - Formalized AI as a field, proposing the study of "machines that can simulate human intelligence."
-   - **(I am currently here)**.
 
 4. **1958 – Perceptron by Frank Rosenblatt**
 
    - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://doi.org/10.1037/h0042519)*
    - Author: Frank Rosenblatt
    - Introduced the Perceptron, one of the first trainable neural networks.
+   - **(I am currently here)**.
 
 5. **1960 – Hebbian Learning (Influence on Neural Networks)**
 
