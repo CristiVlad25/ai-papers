@@ -27,7 +27,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
 4. **1958 – Perceptron by Frank Rosenblatt**
 
-   - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://doi.org/10.1037/h0042519)*
+   - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)*
    - Author: Frank Rosenblatt
    - Introduced the Perceptron, one of the first trainable neural networks.
    - **(I am currently here)**.
