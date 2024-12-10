@@ -31,9 +31,9 @@ This curriculum traces the development of artificial intelligence and large lang
    - Author: Frank Rosenblatt
    - Introduced the Perceptron, one of the first trainable neural networks.
 
-5. **1960 – Hebbian Learning (Influence on Neural Networks)**
+5. **1950s – Hebbian Learning (Influence on Neural Networks)**
 
-   - *[The Organization of Behavior](https://psycnet.apa.org/record/1950-06849-000)*
+   - *[The Organization of Behavior](https://pure.mpg.de/rest/items/item_2346268_3/component/file_2346267/content)*
    - Author: Donald Hebb
    - Proposed Hebbian learning, introducing the principle "cells that fire together wire together."
    - **(I am currently here)**.
