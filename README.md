@@ -30,13 +30,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)*
    - Author: Frank Rosenblatt
    - Introduced the Perceptron, one of the first trainable neural networks.
-   - **(I am currently here)**.
 
 5. **1960 – Hebbian Learning (Influence on Neural Networks)**
 
    - *[The Organization of Behavior](https://psycnet.apa.org/record/1950-06849-000)*
    - Author: Donald Hebb
    - Proposed Hebbian learning, introducing the principle "cells that fire together wire together."
+   - **(I am currently here)**.
 
 6. **1969 – Minsky and Papert Critique of Perceptrons**
 
