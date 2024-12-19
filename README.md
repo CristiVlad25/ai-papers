@@ -36,13 +36,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[The Organization of Behavior](https://pure.mpg.de/rest/items/item_2346268_3/component/file_2346267/content)*
    - Author: Donald Hebb
    - Proposed Hebbian learning, introducing the principle "cells that fire together wire together."
-   - **(I am currently here)**.
 
 6. **1969 – Minsky and Papert Critique of Perceptrons**
 
    - *[Perceptrons](https://leon.bottou.org/publications/pdf/perceptrons-2017.pdf)*
    - Authors: Marvin Minsky and Seymour Papert
    - Highlighted the limitations of the perceptron, leading to a decline in interest in neural networks.
+   - **(I am currently here)**.
 
 7. **1974 – Backpropagation Algorithm (Paul Werbos)**
 
