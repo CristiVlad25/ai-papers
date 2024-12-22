@@ -39,7 +39,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
 6. **1969 – Minsky and Papert Critique of Perceptrons**
 
-   - *[Perceptrons](https://leon.bottou.org/publications/pdf/perceptrons-2017.pdf)*
+   - *[Perceptrons](https://rodsmith.nz/wp-content/uploads/Minsky-and-Papert-Perceptrons.pdf)*
    - Authors: Marvin Minsky and Seymour Papert
    - Highlighted the limitations of the perceptron, leading to a decline in interest in neural networks.
    - **(I am currently here)**.
