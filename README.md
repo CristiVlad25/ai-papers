@@ -49,6 +49,7 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences](https://www.researchgate.net/publication/35657389_Beyond_regression_new_tools_for_prediction_and_analysis_in_the_behavioral_sciences)*
    - Author: Paul Werbos
    - Introduced the backpropagation algorithm in his Ph.D. thesis.
+   - **(I am currently here)**.
 
 8. **1980 – Neocognitron (Precursor to CNNs)**
 
