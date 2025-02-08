@@ -42,20 +42,19 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[Perceptrons](https://rodsmith.nz/wp-content/uploads/Minsky-and-Papert-Perceptrons.pdf)*
    - Authors: Marvin Minsky and Seymour Papert
    - Highlighted the limitations of the perceptron, leading to a decline in interest in neural networks.
-   - **(I am currently here)**.
 
 7. **1974 – Backpropagation Algorithm (Paul Werbos)**
 
    - *[Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences](https://www.researchgate.net/publication/35657389_Beyond_regression_new_tools_for_prediction_and_analysis_in_the_behavioral_sciences)*
    - Author: Paul Werbos
    - Introduced the backpropagation algorithm in his Ph.D. thesis.
-   - **(I am currently here)**.
 
 8. **1980 – Neocognitron (Precursor to CNNs)**
 
-   - *[Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](https://link.springer.com/article/10.1007/BF00344251)*
+   - *[Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](https://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)*
    - Author: Kunihiko Fukushima
    - Developed an early convolutional neural network (CNN) that inspired later advancements in deep learning.
+   - **(I am currently here)**.
 
 9. **1986 – Backpropagation Popularized**
 
