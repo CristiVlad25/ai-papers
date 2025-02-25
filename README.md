@@ -60,13 +60,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[Learning Representations by Back-propagating Errors](https://doi.org/10.1038/323533a0)*
    - Authors: David E. Rumelhart, Geoffrey Hinton, Ronald J. Williams
    - Popularized backpropagation, making it practical for training multilayer neural networks.
-   - **(I am currently here)**.
 
 10. **1989 – Hidden Markov Models (HMMs)**
 
     - *[A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition](https://ieeexplore.ieee.org/document/18626)*
     - Author: Lawrence Rabiner
     - Provided a foundational understanding of HMMs, critical for early speech recognition and sequence modeling.
+    - **(I am currently here)**.
 
 ### 2. Shift to Statistical NLP and Early Machine Learning (1990s-2000s)
 
