@@ -54,13 +54,13 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](https://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)*
    - Author: Kunihiko Fukushima
    - Developed an early convolutional neural network (CNN) that inspired later advancements in deep learning.
-   - **(I am currently here)**.
 
 9. **1986 – Backpropagation Popularized**
 
    - *[Learning Representations by Back-propagating Errors](https://doi.org/10.1038/323533a0)*
    - Authors: David E. Rumelhart, Geoffrey Hinton, Ronald J. Williams
    - Popularized backpropagation, making it practical for training multilayer neural networks.
+   - **(I am currently here)**.
 
 10. **1989 – Hidden Markov Models (HMMs)**
 
