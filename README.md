@@ -66,7 +66,6 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition](https://ieeexplore.ieee.org/document/18626)*
     - Author: Lawrence Rabiner
     - Provided a foundational understanding of HMMs, critical for early speech recognition and sequence modeling.
-    - **(I am currently here)**.
 
 ### 2. Shift to Statistical NLP and Early Machine Learning (1990s-2000s)
 
@@ -79,6 +78,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[The Mathematics of Statistical Machine Translation](https://aclanthology.org/J93-2003/)*
     - Authors: Peter F. Brown et al.
     - Laid the foundation for modern translation systems by modeling word alignment between languages.
+    - **(I am currently here)**.
 
 13. **1993 – Class-Based n-gram Models**
 
