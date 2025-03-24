@@ -78,13 +78,13 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[The Mathematics of Statistical Machine Translation](https://aclanthology.org/J93-2003/)*
     - Authors: Peter F. Brown et al.
     - Laid the foundation for modern translation systems by modeling word alignment between languages.
-    - **(I am currently here)**.
 
 13. **1993 – Class-Based n-gram Models**
 
      - *[Class-Based n-gram Models of Natural Language](https://aclanthology.org/J92-4003/)*
     - Authors: Peter F. Brown et al.
     - Introduced class-based n-gram models, an early statistical approach to language modeling.
+    - **(I am currently here)**.
 
 14. **1997 – Long Short-Term Memory (LSTM)**
 
