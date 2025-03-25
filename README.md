@@ -84,13 +84,13 @@ This curriculum traces the development of artificial intelligence and large lang
      - *[Class-Based n-gram Models of Natural Language](https://aclanthology.org/J92-4003/)*
     - Authors: Peter F. Brown et al.
     - Introduced class-based n-gram models, an early statistical approach to language modeling.
-    - **(I am currently here)**.
 
 14. **1997 – Long Short-Term Memory (LSTM)**
 
     - *[Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735)*
     - Authors: Sepp Hochreiter and Jürgen Schmidhuber
     - Introduced the LSTM architecture, addressing the vanishing gradient problem in RNNs.
+    - **(I am currently here)**.
 
 15. **1998 – LeNet and Convolutional Neural Networks (CNNs)**
 
