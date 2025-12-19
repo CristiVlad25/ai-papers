@@ -90,13 +90,13 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735)*
     - Authors: Sepp Hochreiter and Jürgen Schmidhuber
     - Introduced the LSTM architecture, addressing the vanishing gradient problem in RNNs.
-    - **(I am currently here)**.
 
 15. **1998 – LeNet and Convolutional Neural Networks (CNNs)**
 
     - *[Gradient-Based Learning Applied to Document Recognition](https://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)*
     - Author: Yann LeCun et al.
     - Developed LeNet, one of the first successful CNN architectures, used for handwritten digit recognition.
+    - **(I am currently here)**.
 
 16. **2003 – Neural Probabilistic Language Model**
 
