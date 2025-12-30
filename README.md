@@ -96,7 +96,6 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Gradient-Based Learning Applied to Document Recognition](https://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)*
     - Author: Yann LeCun et al.
     - Developed LeNet, one of the first successful CNN architectures, used for handwritten digit recognition.
-    - **(I am currently here)**.
 
 16. **2003 – Neural Probabilistic Language Model**
 
@@ -117,6 +116,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)*
     - Author: Tomas Mikolov et al.
     - Introduced Word2Vec, learning continuous vector representations of words.
+    - **(I am currently here)**.
 
 19. **2014 – Sequence to Sequence (Seq2Seq) Models**
 
