@@ -116,13 +116,13 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)*
     - Author: Tomas Mikolov et al.
     - Introduced Word2Vec, learning continuous vector representations of words.
-    - **(I am currently here)**.
 
 19. **2014 – Sequence to Sequence (Seq2Seq) Models**
 
     - *[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)*
     - Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
     - Introduced the Seq2Seq architecture using LSTMs, enabling machine translation tasks.
+    - **(I am currently here)**.
 
 20. **2014 – Gated Recurrent Units (GRUs)**
 
