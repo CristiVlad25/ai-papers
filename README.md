@@ -122,13 +122,13 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)*
     - Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
     - Introduced the Seq2Seq architecture using LSTMs, enabling machine translation tasks.
-    - **(I am currently here)**.
 
 20. **2014 – Gated Recurrent Units (GRUs)**
 
     - *[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)*
     - Authors: Kyunghyun Cho et al.
     - Introduced GRUs as a simpler alternative to LSTMs for sequence modeling.
+    - **(I am currently here)**.
 
 21. **2014 – Adam Optimizer**
 
