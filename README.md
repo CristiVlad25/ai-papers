@@ -128,13 +128,13 @@ This curriculum traces the development of artificial intelligence and large lang
     - *[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)*
     - Authors: Kyunghyun Cho et al.
     - Introduced GRUs as a simpler alternative to LSTMs for sequence modeling.
-    - **(I am currently here)**.
 
 21. **2014 – Adam Optimizer**
 
     - *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)*
     - Authors: Diederik P. Kingma, Jimmy Ba
     - Presented the Adam optimizer, widely used in training deep neural networks.
+    - **(I am currently here)**.
 
 22. **2015 – Attention Mechanism in Neural Networks**
 
